@@ -128,10 +128,6 @@ Welcome <username>
 
 http://localhost:8080/servlets\_assignment/login.html
 
-
-
-
-
 ---
 
 
@@ -163,8 +159,6 @@ This assignment demonstrates \*\*HTTP redirection\*\* using a servlet.
 \### 🔹 URL (after deployment on Tomcat)
 
 http://localhost:8080/servlets\_assignment/redirect.html
-
-
 
 
 
