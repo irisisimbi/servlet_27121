@@ -1,14 +1,14 @@
-\# 📘 Java Servlets Assignments
+\# **📘 Java Servlets Assignments**
 
 
 
-\*\*Student Name:\*\* Isimbi Mushimire Iris  
+**\*\*Student Name:\*\* Isimbi Mushimire Iris**  
 
-\*\*Student ID:\*\* 27121  
+**\*\*Student ID:\*\* 27121**  
 
-\*\*Course:\*\* Java Web Programming  
+**\*\*Course:\*\* Web-Tech**  
 
-\*\*Technology:\*\* Java Servlets, Maven, Apache Tomcat  
+**\*\*Technology:\*\* Java Servlets, Maven, Apache Tomcat**  
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-\## 📌 Project Overview
+\## 📌 **Project Overview**
 
 
 
@@ -42,7 +42,7 @@ The assignments demonstrate understanding of:
 
 
 
-\## 🗂 Project Structure
+\## **🗂 Project Structure**
 
 
 
@@ -78,7 +78,7 @@ servlets\_assignment
 
 
 
-\## 🧪 Assignment 1: Login Servlet
+\## 🧪 **Assignment 1: Login Servlet**
 
 
 
@@ -132,7 +132,7 @@ http://localhost:8080/servlets\_assignment/login.html
 
 
 
-\## 🔁 Assignment 2: Redirect Servlet
+**## 🔁 Assignment 2: Redirect Servlet**
 
 
 
@@ -186,7 +186,7 @@ http://localhost:8080/servlets\_assignment/redirect.html
 
 
 
-\## 🚀 How to Run the Project
+**## 🚀 How to Run the Project**
 
 
 
@@ -204,7 +204,7 @@ http://localhost:8080/servlets\_assignment/redirect.html
 
 
 
-\### ✅ Final steps (important)
+**### ✅ Final steps (important)**
 
 After pasting the file:
 
